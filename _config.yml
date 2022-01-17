@@ -10,15 +10,15 @@ description: > # this means to ignore newlines until "email:"
 
 email: eyad.m.alshami@gmail.com
 #blog logo
-logo: "/assets/images/df_logo.jpg"
+logo: "/assets/images/logo_300.png"
 float_logo: true # true, false (default)
 
 # blog cover
-cover: "/assets/images/cA4aKEIPQrerBnp1yGHv_IMG_9534-3-2.jpg"
+cover: "/assets/images/artem-rhx-1200-1.jpg"
 
 name: 'Dirk Fabisch'
 author: 'Dirk Fabisch'
-author_image: "/assets/images/author.jpg"
+author_image: "/assets/images/author_215.png"
 
 paginate:	5
 
