@@ -16,13 +16,13 @@ float_logo: true # true, false (default)
 # blog cover
 cover: "/assets/images/artem-rhx-1200-1.jpg"
 
-name: 'Dirk Fabisch'
-author: 'Dirk Fabisch'
+name: 'Eyad Alshami'
+author: 'Eyad Alshami'
 author_image: "/assets/images/author_215.png"
 
 paginate:	5
 
-url: "http://myblog.***.***" # the base hostname & protocol for your site
+url: "https://eyad-al-shami.github.io" # the base hostname & protocol for your site
 baseurl: ""
 #used to display twitter cards
 twitter_handle: '@eyad7015'
